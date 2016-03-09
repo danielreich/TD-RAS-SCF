@@ -1,4 +1,4 @@
 obj_dicp/
-.mod
-.o
+*.mod
+*.o
 tdrasscf
